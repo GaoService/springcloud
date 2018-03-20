@@ -1,0 +1,29 @@
+{
+    "card": {
+        "card_type": "MEMBER_CARD",
+        "member_card": {
+            "background_pic_url": "https://mmbiz.qlogo.cn/mmbiz/",
+            "base_info": {
+                "logo_url": "http://mmbiz.qpic.cn/mmbiz/iaL1LJM1mF9aRKPZ/0",
+                "brand_name": "老高汽车精品装饰",
+                "code_type": "CODE_TYPE_BARCODE",
+                "title": "会员卡",
+                "color": "Color010",
+                "notice": "支付时请出示会员卡",
+                "service_phone": "13937790924",
+                "description": "会员卡积分可以兑换礼品",
+                "date_info": {
+                    "type": "DATE_TYPE_PERMANENT"
+                },
+                "get_limit": 1,
+                "use_custom_code": false,
+                "can_give_friend": false,
+                "need_push_on_view": true
+            },
+            "supply_bonus": true,
+            "supply_balance": true,
+            "prerogative": "每消费1元，赠送1积分",
+            "auto_activate": true,
+        }
+    }
+}
